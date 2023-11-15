@@ -227,7 +227,7 @@ h6, i[class^=flaticon-] {
   --bd-common-black: #000000;
   --bd-common-placeholder: #555555;
   --bd-common-selection: #262626;
-  --bd-body-primary: rgb(6, 6, 6);
+  --bd-body-primary: #090A03;
   --bd-body-secondary: rgb(255, 255, 255);
   --bd-theme-primary: #089EFF;
   --bd-theme-secondary: #FB5141;
@@ -251,9 +251,9 @@ h6, i[class^=flaticon-] {
   --bd-bg-10: rgb(247, 247, 247);
   --bd-border-primary: rgba(255, 255, 255, 0.079);
   --bd-border-secondary: rgb(2, 29, 53);
-  --bd-gradient-1: linear-gradient(90deg, rgb(251, 81, 65), rgb(103, 74, 217), rgb(103, 74, 217), rgb(251, 81, 65));
-  --bd-gradient-2: linear-gradient(90deg, #674AD9 0%, #FB5141 100%);
-  --bd-gradient-3: linear-gradient(90deg, #FB5141 0%, #089EFF 100%);
+  --bd-gradient-1: linear-gradient(90deg, #BAD80E, #BAD80E, #BAD80E, #BAD80E);
+  --bd-gradient-2: linear-gradient(90deg, #BAD80E 0%, #BAD80E 100%);
+  --bd-gradient-3: linear-gradient(90deg, #BAD80E 0%, #BAD80E 100%);
   /**
   @font weight declaration
   */
@@ -8357,7 +8357,7 @@ blockquote cite::before {
   position: relative;
   padding-top: 325px;
   margin-top: -250px;
-  background: rgb(14, 10, 36);
+  background: #090A03;
 }
 @media (max-width: 575px) {
   .footer__area-2 {
@@ -12594,7 +12594,7 @@ blockquote cite::before {
 }
 
 .mobile__app-wrapper {
-  background: linear-gradient(90deg, #674AD9 0%, #FB5141 50.52%, #089EFF 100%);
+  background: linear-gradient(90deg, #BAD80E  0%, #090A03 50.52%, #BAD80E 100%);
   padding: 0 40px;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
